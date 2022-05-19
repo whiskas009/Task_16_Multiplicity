@@ -1,0 +1,8 @@
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_16_Multiplicity\Task_16_Multiplicity\bin\Debug\Task_16_Multiplicity.exe.config
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_16_Multiplicity\Task_16_Multiplicity\bin\Debug\Task_16_Multiplicity.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_16_Multiplicity\Task_16_Multiplicity\bin\Debug\Task_16_Multiplicity.pdb
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_16_Multiplicity\Task_16_Multiplicity\obj\Debug\Task_16_Multiplicity.csproj.AssemblyReference.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_16_Multiplicity\Task_16_Multiplicity\obj\Debug\Task_16_Multiplicity.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_16_Multiplicity\Task_16_Multiplicity\obj\Debug\Task_16_Multiplicity.csproj.CoreCompileInputs.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_16_Multiplicity\Task_16_Multiplicity\obj\Debug\Task_16_Multiplicity.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_16_Multiplicity\Task_16_Multiplicity\obj\Debug\Task_16_Multiplicity.pdb
